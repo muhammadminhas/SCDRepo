@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Changed
 =======
 Centralized Approach to work on github
 >>>>>>> 46dd045036b7147c6e894f8ec577d966ac472616
+=======
+Moeez bse191029
+>>>>>>> f2bdb1154de3f6f0ac246b41387da278910e301e
