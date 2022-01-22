@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Changed
+=======
+Centralized Approach to work on github
+>>>>>>> 46dd045036b7147c6e894f8ec577d966ac472616
