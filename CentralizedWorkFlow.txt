@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Changed
 =======
 Centralized Approach to work on github
@@ -7,3 +8,7 @@ Centralized Approach to work on github
 =======
 Moeez bse191029
 >>>>>>> f2bdb1154de3f6f0ac246b41387da278910e301e
+=======
+Centralized Approach to work on github
+by Mehak Mushtaq 
+>>>>>>> 3f068c83dc7a2d855a83594b57f538e3c3cc777f
